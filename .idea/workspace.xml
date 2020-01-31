@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3dfa750a-4f87-4e8f-b118-0fbc8758b2b7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrayconditionconditional.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Arrayconditionconditional/Armstrongnumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Arrayconditionconditional/CountTotalnoofWordandSpace.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Arrayconditionconditional/Counttotalnooddevan.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Arrayconditionconditional/Multiplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Arrayconditionconditional/ReverseNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Arrayconditionconditional/SequenceNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Arrayconditionconditional/Sortanumericarrayandstring.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Arrayconditionconditional/Stringandcounttotalnumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Arrayconditionconditional/Sumvalue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Arrayconditionconditional/arraycontainsaspecificvalue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
+  </component>
+  <component name="ProjectId" id="1Wzhuyo8NJMdZIQ5fp8kXmh2b2t" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Application.Sumvalue">
+    <configuration name="Armstrongnumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Armstrongnumber" />
+      <module name="Arrayconditionconditional" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Counttotalnooddevan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Counttotalnooddevan" />
+      <module name="Arrayconditionconditional" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SequenceNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SequenceNumber" />
+      <module name="Arrayconditionconditional" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Stringandcounttotalnumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stringandcounttotalnumber" />
+      <module name="Arrayconditionconditional" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sumvalue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sumvalue" />
+      <module name="Arrayconditionconditional" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Sumvalue" />
+        <item itemvalue="Application.Armstrongnumber" />
+        <item itemvalue="Application.Counttotalnooddevan" />
+        <item itemvalue="Application.SequenceNumber" />
+        <item itemvalue="Application.Stringandcounttotalnumber" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3dfa750a-4f87-4e8f-b118-0fbc8758b2b7" name="Default Changelist" comment="" />
+      <created>1580158557095</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580158557095</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="0" key="#Project_Structure" timestamp="1580158608433">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1580158608433" />
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1580320478402">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1580320478402" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1580320478402">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1580320478402" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1580320478402">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1580320478402" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1580320478402">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1580320478402" />
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom" timestamp="1580316600167">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1580316600167" />
+    <state width="1237" height="204" key="GridCell.Tab.1.center" timestamp="1580316600167">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1580316600167" />
+    <state width="1237" height="204" key="GridCell.Tab.1.left" timestamp="1580316600167">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1580316600167" />
+    <state width="1237" height="204" key="GridCell.Tab.1.right" timestamp="1580316600167">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1580316600167" />
+    <state x="91" y="0" key="new project wizard" timestamp="1580207410131">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="91" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1580207410131" />
+    <state x="297" y="151" key="run.anything.popup" timestamp="1580316290191">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="151" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1580316290191" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1580291346332">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1580291346332" />
+  </component>
+</project>
